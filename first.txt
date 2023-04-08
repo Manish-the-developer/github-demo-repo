@@ -2,4 +2,5 @@
  now this is the second and the latest change by manish
  this is the third change
  this is fourth change after creating beta branch
+ THIS LINE ADDED TO PRODUCE A CONFLICT SITUATION
  one line command to stage all changes and commit  = git commit -a -m "stage and commit"
