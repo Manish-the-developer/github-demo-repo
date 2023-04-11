@@ -4,3 +4,4 @@
  this is fourth change after creating beta branch
  one line command to stage all changes and commit  = git commit -a -m "stage and commit"
  NOW I M USING GIT-KRAKEN 
+ NOW USING GIT DIFF
